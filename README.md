@@ -1,2 +1,2 @@
-# Contaigon---Unity
+# Contaigon
 3D Dungeon Exploration Game developed in team at Georgia Tech for Video Game Design course
