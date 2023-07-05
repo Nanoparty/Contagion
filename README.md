@@ -7,3 +7,5 @@ Fight enemies and solve puzzles by casting magic spells of three different eleme
 ![Water](Water.gif)
 ![Earth](Earth.gif)
 ![Boss](Boss.gif)
+
+© Nathan Foote | 2016
