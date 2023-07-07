@@ -1,4 +1,4 @@
-# Contaigon
+# Contagion
 
 ![version](https://img.shields.io/badge/Version-1.0-green)
 ![engine](https://img.shields.io/badge/Engine-Unity-blue)
